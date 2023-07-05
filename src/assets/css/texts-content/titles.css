@@ -1,0 +1,9 @@
+.title h1 {
+    font-size: 30pt;
+}
+
+.title h1,
+.title h2 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
